@@ -8,8 +8,7 @@ homepage:
   url: https://co2co2.cf
   text: https://co2co2.cf
 phone:
-  url: https://nwuzmed.ga/
-  text: 189****8216
+  189****8216
 ---
 
 # Wode **Ni**
