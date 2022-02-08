@@ -11,7 +11,7 @@ phone:
   189****8216
 ---
 
-# Wode **Ni**
+# Zmed's  **resume**
 
 <!--
 include contact information from the front matter
