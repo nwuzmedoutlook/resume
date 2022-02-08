@@ -1,12 +1,14 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: DAC导航
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:nwuzmed@outlook.com
+  text: nwuzmed@outlook.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://co2co2.cf
+  text: https://co2co2.cf
+phone:
+  text: 189****8216
 ---
 
 # Wode **Ni**
