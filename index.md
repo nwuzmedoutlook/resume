@@ -1,5 +1,5 @@
 ---
-layout: NWUzmed
+layout: cv
 title: Wode "Nimo" Ni
 email:
   url: mailto:woden@cs.cmu.edu
