@@ -1,5 +1,6 @@
 ---
 layout: cv
+shortcut icon: http://ys-i.ysepan.com/618551322/616032918/p6553396L27NLGjrPTKf3f/%E5%AD%90%E7%A9%86%E4%BA%8C%E9%93%8E.jpg
 title: DAC导航
 email:
   url: mailto:nwuzmed@outlook.com
