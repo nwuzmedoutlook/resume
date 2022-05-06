@@ -45,32 +45,35 @@ Supported arguments:
 
 ## 研究项目
 
-### **1 生物基CO₂空气捕集材料的构筑及其吸附机制研究** `研究助理&emsp;&emsp;2022.01 - 2022.12`
+### **1 生物基CO₂空气捕集材料的构筑及其吸附机制研究**`研究助理 2022.01 - 2022.12`
 
 _西安市科协青年人才托举计划项目_<br>
-基于壳聚糖基多孔复合材料进行了 20 余次 CO2 吸附/脱附循环性能测试；
-初步揭示捕集材料的理化性质及环境因素对 CO2 吸附/脱附性能的影响。
+- 基于壳聚糖基多孔复合材料进行了 20 余次 CO2 吸附/脱附循环性能测试；
+- 初步揭示捕集材料的理化性质及环境因素对 CO2 吸附/脱附性能的影响。
 
-### **2 基于湿法再生吸附材料的CO₂直接空气捕集系统** `2017.5 - 2017.8`
+### **2 基于湿法再生吸附材料的CO₂直接空气捕集系统** `设计助理 2021.10 - 2022.06`
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+_校企合作项目：霖和气候科技（北京）有限公司_<br>
+- 负责 CO2 直接空气捕集系统的初步设计、图纸修改和全流程技术沟通；
+- 当前系统处于加工组装阶段，依据设计内容撰写发明专利 1 项。
 
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+### **3 富碳农业碳捕集材料与装置研究** `实验负责 2021.07 - 2021.09`
 
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+_校企合作项目：陕西海戎泓远创新科技有限公司_<br>
+- 负责 18 kg 干湿法 CO2 捕集材料的预处理、改性和后处理；
+- 成功制备材料并搭建简易循环式增碳系统进行测试，撰写发明专利 1 项。
+
+### **4 超临界流体提取美洲大蠊有效药用成分的研究** `实验助理 2018.09 - 2019.05`
+
+_国家级大学生创新创业训练计划项目_<br>
+- 操作高压超临界 CO2萃取设备顺利提取美洲大蠊药用成分 10 余次；
+- 协助其他成员分析实验数据，共同撰写项目结题报告 1 份。
 
 ## 论文发表
 
-### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
-**Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
-_In Proceedings of the 34th ACM Symposium on User Interface Software and Technology (UIST'21)._ <br>
-[[PDF]({{ page.homepage.url }}/assets/uist-21-recode.pdf)]
-[[BibTeX]({{ page.homepage.url }}/assets/uist-21-recode.txt)]
-[[video preview](https://youtu.be/fMdHK9UrgQ4)]
-[[talk](https://youtu.be/_GQ8E7EMMws)]
-
+### [**Ni-Fe bimetallic hexaaluminate for efficient reduction of O2-containing CO2 via chemical loopinge**](https://www.sciencedirect.com/science/article/abs/pii/S1385894722015698)
+Xueyan Sun, Liangliang Zhu, Wei Zhao, **Feng Li**, Xi Chen<br> 
+_Chemical Engineering Journal (Volume 441, 1 August 2022, 136071)._ <br>
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
 Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
@@ -175,3 +178,4 @@ Research Experiences for Undergraduates in Software Engineering Admission Commit
 <!-- ### Footer
 
 Last updated: May 2013 -->
+
