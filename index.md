@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: DAC导航
+title: Resume
 email:
   url: mailto:nwuzmed@outlook.com
   text: nwuzmed@outlook.com
