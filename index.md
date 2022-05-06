@@ -25,32 +25,24 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **西北大学** `2020.9 - 2023.6`
 
 ```
-Pittsburgh, PA
+陕西, 西安
 ```
 
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- 硕士&emsp;&emsp;化工过程机械
+- Co-advised by [朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu) and [陈曦](http://www.cs.cmu.edu/~jssunshi/)
 
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
+### **西北大学** `2016.9 - 2020.6`
 
 ```
-Carlisle, PA
+陕西, 西安
 ```
 
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
+- 学士&emsp;&emsp;过程装备与控制工程
+- 金属工艺学，工程力学，过程流体机械，工程材料，机械设计基础, 化工容器设计，化工仪表及自动化，过程装备腐蚀与防护
+
 
 ## Publications
 
