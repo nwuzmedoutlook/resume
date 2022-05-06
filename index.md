@@ -25,7 +25,7 @@ Supported arguments:
 
 ## 教育经历
 
-### **西北大学** `2020.9 - 2023.6`
+### **西北大学** `2020.09 - 2023.06`
 
 ```
 陕西, 西安
@@ -34,7 +34,7 @@ Supported arguments:
 - 硕士&emsp;&emsp;化工过程机械
 - 直接空气捕集CO₂设备的开发及应用研究（由[朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu)和[陈曦](https://www.engineering.columbia.edu/faculty/xi-chen)合作指导）
 
-### **西北大学** `2016.9 - 2020.6`
+### **西北大学** `2016.09 - 2020.06`
 
 ```
 陕西, 西安
@@ -45,7 +45,7 @@ Supported arguments:
 
 ## 研究项目
 
-### **Microsoft Research** `2020.5 - 2020.8`
+### **生物基CO₂空气捕集材料的构筑及其吸附机制研究** `研究助理    2022.01 - 2022.12`
 
 _Research Intern_<br>
 Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
