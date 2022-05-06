@@ -32,7 +32,7 @@ Supported arguments:
 ```
 
 - 硕士&emsp;&emsp;化工过程机械
-- Co-advised by [朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu) and [陈曦](http://www.cs.cmu.edu/~jssunshi/)
+- Co-advised by [朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu) and [陈曦](https://www.engineering.columbia.edu/faculty/xi-chen)
 
 ### **西北大学** `2016.9 - 2020.6`
 
@@ -43,8 +43,24 @@ Supported arguments:
 - 学士&emsp;&emsp;过程装备与控制工程
 - 金属工艺学，工程力学，过程流体机械，工程材料，机械设计基础, 化工容器设计，化工仪表及自动化，过程装备腐蚀与防护
 
+## 研究项目
 
-## Publications
+### **Microsoft Research** `2020.5 - 2020.8`
+
+_Research Intern_<br>
+Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
+
+### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+
+_Research Assistant_<br>
+**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+
+### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
+
+_Research Assistant_<br>
+Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+
+## 论文
 
 ### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
@@ -85,7 +101,7 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 [[PDF](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)]
 [[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
 
----
+## 专利
 
 ### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
 
@@ -100,7 +116,7 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 **Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
 [[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
 
-## Experience
+## 实践经历
 
 ### **Microsoft Research** `2020.5 - 2020.8`
 
@@ -127,7 +143,7 @@ Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augument
 
 ---
 
-## Honors & Awards
+## 荣誉奖项
 
 CHI'20 Best Paper Honourable Mention Award `CMU, 2020` <br>
 Phi Beta Kappa `Dickinson, 2018` <br>
@@ -140,7 +156,7 @@ Upsilon Pi Epsilon, Computer Science Honor Society `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `Dickinson, 2013` <br>
 
-## Teaching
+## 志愿服务
 
 Teaching Assistant, **Crafting Software (17-450/17-950)** `CMU, 2022` <br>
 Teaching Assistant, **Programming Languages and Translators (COMS 4115)** `Columbia, 2017 - 2018` <br>
@@ -149,7 +165,7 @@ Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016`
 Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 
-## Service
+## 社会关系
 
 Sub-reviewer `OOPSLA'21, VL/HCC'21` <br>
 Reviewer `CHI 2021, CHI 2022` <br>
