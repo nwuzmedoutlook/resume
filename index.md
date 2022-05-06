@@ -23,7 +23,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育经历
 
 ### **西北大学** `2020.9 - 2023.6`
 
@@ -32,7 +32,7 @@ Supported arguments:
 ```
 
 - 硕士&emsp;&emsp;化工过程机械
-- Co-advised by [朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu) and [陈曦](https://www.engineering.columbia.edu/faculty/xi-chen)
+- 直接空气捕集CO₂设备的开发及应用研究（由[朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu)和[陈曦](https://www.engineering.columbia.edu/faculty/xi-chen)合作指导）
 
 ### **西北大学** `2016.9 - 2020.6`
 
@@ -41,7 +41,7 @@ Supported arguments:
 ```
 
 - 学士&emsp;&emsp;过程装备与控制工程
-- 金属工艺学，工程力学，过程流体机械，工程材料，机械设计基础, 化工容器设计，化工仪表及自动化，过程装备腐蚀与防护
+- 金属工艺学，工程力学，过程流体机械，工程材料，机械设计基础，化工容器设计，化工仪表及自动化，过程装备腐蚀与防护
 
 ## 研究项目
 
@@ -60,7 +60,7 @@ _Research Assistant_<br>
 _Research Assistant_<br>
 Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
 
-## 论文
+## 论文发表
 
 ### [**reCode: A Lightweight Find-and-Replace Interaction in the IDE for Transforming Code by Example**]({{ page.homepage.url }}/assets/uist-21-recode.pdf)
 **Wode Ni**, Joshua Sunshine, Vu Le, Sumit Gulwani, and Titus Barik.<br> 
@@ -101,7 +101,7 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 [[PDF](http://2019.plateau-workshop.org/assets/papers-2019/2.pdf)]
 [[slides]({{ page.homepage.url }}/assets/plateau-19-presentation.pdf)]
 
-## 专利
+## 专利申请
 
 ### [**Substance and Style: domain-specific languages for mathematical diagrams**](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
 
