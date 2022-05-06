@@ -45,12 +45,13 @@ Supported arguments:
 
 ## 研究项目
 
-### **生物基CO₂空气捕集材料的构筑及其吸附机制研究** `研究助理    2022.01 - 2022.12`
+### **1 生物基CO₂空气捕集材料的构筑及其吸附机制研究** `研究助理&emsp;&emsp;2022.01 - 2022.12`
 
-_Research Intern_<br>
-Worked with the [PROSE](https://www.microsoft.com/en-us/research/group/prose/) team (mentored by [Titus Barik](https://www.barik.net/)) on improving developer productivity in Visual Studio Code. I interviewed developers to elicit their needs for code transformation tools in editors. Inspired by the empirical data and relevant work in program synthesis, I designed **reCode**, an interaction model for rapidly performing complex code transformation using the familiar find-and-replace experience.
+_西安市科协青年人才托举计划项目_<br>
+基于壳聚糖基多孔复合材料进行了 20 余次 CO2 吸附/脱附循环性能测试；
+初步揭示捕集材料的理化性质及环境因素对 CO2 吸附/脱附性能的影响。
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+### **2 基于湿法再生吸附材料的CO₂直接空气捕集系统** `2017.5 - 2017.8`
 
 _Research Assistant_<br>
 **Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
