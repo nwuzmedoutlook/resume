@@ -31,8 +31,9 @@ Supported arguments:
 陕西, 西安
 ```
 
-- 硕士&emsp;&emsp;化工过程机械
+- 硕士&emsp;&emsp;化工过程机械&emsp;&emsp;4.04/5
 - 直接空气捕集CO₂设备的开发及应用研究（由[朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu)和[陈曦](https://www.engineering.columbia.edu/faculty/xi-chen)合作指导）
+- 弹塑性力学、现代材料学、机械设计方法学、腐蚀理论与应用技术、高等流体力学、过程装备技术进展
 
 ### **西北大学** `2016.09 - 2020.06`
 
@@ -40,7 +41,7 @@ Supported arguments:
 陕西, 西安
 ```
 
-- 学士&emsp;&emsp;过程装备与控制工程
+- 学士&emsp;&emsp;过程装备与控制工程&emsp;&emsp;3.11/4
 - 金属工艺学，工程力学，过程流体机械，工程材料，机械设计基础，化工容器设计，化工仪表及自动化，过程装备腐蚀与防护
 
 ## 研究项目
@@ -118,7 +119,7 @@ _[实用新型], 授权公布号：CN214091393U，授权公告日：2021.08.31_<
 
 ### **1** [**一种新型辅助人工草莓采摘器**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN208956465U&uniplatform=NZKPT&v=07rb9qUhkQ3jdaW926T5-bo5Aul6WFDoTOXdKxHNJVhXlfIbV5HnvK1gcww6YF5O)
 
-赵烁，庄子贤，郭思远，杨艳梅，李锋，魏利平<br> 
+赵烁，庄子贤，郭思远，杨艳梅，**李锋**，魏利平<br> 
 _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<br>
 
 ## 工作经历
@@ -138,18 +139,17 @@ _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<
 - 负责暖通设备供应商搜集、供采双方撮合及网站后台数据录入；
 - 协助集采经理日常工作，日均审核供应商及采购商信息 20 余家。
 
-### **化工学院团委科技部** `2016.10 - 2019.07`
+### **化工学院团委科技部** `部员/副部/部长 2016.10 - 2019.07`
 
-_部员/副部/部长_<br>
 - 策划和组织化工学院“学术月”活动 2 次，累计参与学生达 600 人；
 - 开展 200 人以上学科竞赛经验交流会 8 场，公开举办软件技能培训 5 次。
 
 
 ## 合作伙伴
 
-[**Zenglian Liu**](https://nwuzmed.ga/), Shaanxi Normal University `2021 - 今` <br>
+[**Zenglian Liu**](https://nwuzmed.ga/), Shaanxi Normal University `2021.08 - 今` <br>
 
-[**Erkang Yang**](https://nwuzmed.ga/), Xi’an University of Architecture and Technology `2021 - 今` <br>
+[**Erkang Yang**](https://nwuzmed.ga/), Xi’an University of Architecture and Technology `2021.06 - 今` <br>
 
 ---
 
