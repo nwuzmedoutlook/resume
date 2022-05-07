@@ -47,30 +47,30 @@ Supported arguments:
 ## **研究项目**
 
 ### **4 生物基CO₂空气捕集材料的构筑及其吸附机制研究**`研究助理 2022.01 - 2022.12`
-
 _西安市科协青年人才托举计划项目_<br>
 - 基于壳聚糖基多孔复合材料进行了 20 余次 CO₂ 吸附/脱附循环性能测试；
 - 初步揭示捕集材料的理化性质及环境因素对 CO₂ 吸附/脱附性能的影响。
 
 ### **3 基于湿法再生吸附材料的CO₂直接空气捕集系统** `设计助理 2021.10 - 2022.06`
-
 _校企合作项目：霖和气候科技（北京）有限公司_<br>
 - 负责 CO₂ 直接空气捕集系统的初步设计、图纸修改和全流程技术沟通；
 - 当前系统处于加工组装阶段，依据设计内容撰写发明专利 1 项。
 
 ### **2 富碳农业碳捕集材料与装置研究** `实验负责 2021.07 - 2021.09`
-
 _校企合作项目：陕西海戎泓远创新科技有限公司_<br>
 - 负责 18 kg 干湿法 CO₂ 捕集材料的预处理、改性和后处理；
 - 成功制备材料并搭建简易循环式增碳系统进行测试，撰写发明专利 1 项。
 
 ### **1 超临界流体提取美洲大蠊有效药用成分的研究** `实验助理 2018.09 - 2019.05`
-
 _国家级大学生创新创业训练计划项目_<br>
 - 操作高压超临界 CO₂萃取设备顺利提取美洲大蠊药用成分 10 余次；
 - 协助其他成员分析实验数据，共同撰写项目结题报告 1 份。
 
 ## **论文发表**
+
+### **4** [**CO2 removal in humid environment by ionexchange membranes**](https://www.sciencedirect.com/science/article/abs/pii/S1385894722015698)
+**Feng Li**, Yifan Zhang, Shiqiang Zheng, Jia Ni, Liangliang Zhu, Xi Chen<br> 
+_xxxxxxxxxx (xxxx,xxxxx,xxxx)_ <br>
 
 ### **3** [**Ni-Fe bimetallic hexaaluminate for efficient reduction of O₂-containing CO₂ via chemical loopinge**](https://www.sciencedirect.com/science/article/abs/pii/S1385894722015698)
 Xueyan Sun, Liangliang Zhu, Wei Zhao, **Feng Li**, Xi Chen<br> 
@@ -87,71 +87,64 @@ _Materials Advances (2021, 2, 7187–7209)_<br>
 
 ## **专利申请**
 
-### **7** [**一种提纯CO₂脱除SO₂的装置与方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN112957872B&uniplatform=NZKPT&v=pCwUzf6tjID5bWU7DZtSy5j3Xds_fS3vDtZ85yI0fa5G_vBkmrIOlAd2yQvL73U0)
+### **9** [**循环式温室大棚 CO₂ 气肥增施系统及增施方法**]
+**李锋**，xx，xxx，xx<br> 
+_[发明], 申请公布号：CNxxxxxxxxxx，公开公告日：2022.xx.xx_<br>
 
+### **8** [**基于湿法再生吸附材料的 CO₂ 直接空气捕集系统和方法**]
+**李锋**，王凯，张继，朱亮亮，陈曦，王珮骅<br> 
+_[发明], 申请公布号：CNxxxxxxxxxx，公开公告日：2022.xx.xx_<br>
+
+### **7** [**一种提纯CO₂脱除SO₂的装置与方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN112957872B&uniplatform=NZKPT&v=pCwUzf6tjID5bWU7DZtSy5j3Xds_fS3vDtZ85yI0fa5G_vBkmrIOlAd2yQvL73U0)
 朱亮亮，熊盈盈，**李锋**，姚禹彤，闫渊<br> 
 _[发明], 授权公布号：CN112957872B，授权公告日：2022.04.22_<br>
 
 ### **6** [**一种双季铵二氧化碳吸附树脂及其制备方法和应用**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN114031701A&uniplatform=NZKPT&v=cOjNkfukx6Q9wBYsh9xeUNMud7YITXf5lFjmMOZ6P9waYal8s1GDw-0ygF7Njlp7)
-
 王雪茹，**李锋**，王凯，朱亮亮，张江天，陈曦<br> 
 _[发明], 申请公布号：CN114031701A，公开公告日：2022.02.11_<br>
 
 ### **5** [**一种利用非纯CO₂养护水泥预制件的装置与方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN113650144A&uniplatform=NZKPT&v=gTARseiXZtLNpwDpICd0R-SI7ol9Qdvj-hC94FaaikVqm5V667JJjQQVaV5PHMqw)
-
 刘立熙，朱亮亮，王雪茹，田慧英，**李锋**，陈曦<br> 
 _[发明], 申请公布号：CN113650144A，公开公告日：2021.11.16_<br>
 
 ### **4** [**移动式温室大棚CO₂气肥增施装置及CO₂气肥增施方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2021&filename=CN112005756A&uniplatform=NZKPT&v=-aE0eCFz02oM7vB-dJvKIpCM3ILpZ_hodfr3R9422AnHVmU5QEFdLt5c7vpr52IK)
-
 **李锋**，朱亮亮，陈曦，闫渊<br> 
 _[发明], 申请公布号：CN112005756A，公开公告日：2020.12.01_ <br>
 
 ### **3** [**一种基于过硫酸盐型碘钟反应的自控金属空气电池小车**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN214138763U&uniplatform=NZKPT&v=bDDQfEaHy-wOJVDu9z8ml0T3k79rz7Yo3vp6MArjlHluLUr0ofA8d2APt1j0QX1o)
-
 张婉玉，曹锐，**李锋**，曹宏晨，陈禹志，管思楠，苏雪，张屿，李丹，李亚男，黄佳怡，贾雨欣，王倩，杜沁芮，高雨豪<br> 
 _[实用新型], 授权公布号：CN214138763U，授权公告日：2021.09.07_<br>
 
 ### **2** [**一种用于改装传统机械门锁的开锁装置**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2021&filename=CN214091393U&uniplatform=NZKPT&v=Ge1mG1V2RuxFJfXdMbGnG4vcYzyonvEU_Xi7GfHJgCXftiD-xU7xo5lLNYxJsQGm)
-
 谭应鹏，武玮，黄佳怡，刘佳薇，樊锡琳，刘云鹏，王凯，**李锋**，王健<br> 
 _[实用新型], 授权公布号：CN214091393U，授权公告日：2021.08.31_<br>
 
 ### **1** [**一种新型辅助人工草莓采摘器**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN208956465U&uniplatform=NZKPT&v=07rb9qUhkQ3jdaW926T5-bo5Aul6WFDoTOXdKxHNJVhXlfIbV5HnvK1gcww6YF5O)
-
 赵烁，庄子贤，郭思远，杨艳梅，**李锋**，魏利平<br> 
 _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<br>
 
 ## **工作经历**
 
 ### **霖和气候科技（北京）有限公司** `碳捕集工程师 2021.07 - 2022.06`
-
 - 负责运行和管理 5 kg 级 CO₂ 空气捕集装置、桌面级富碳生态系统；
 - 探索出制备 0-99.9% 任意体积浓度 CO₂ 气体的工艺路线，撰写论文 1 篇。
 
 ### **杭州海康威视数字技术股份有限公司** `技术支持工程师 2019.07 - 2019.09`
-
 - 服务于西安智慧楼宇安防业务，历经“雪亮工程”等大小 21 个项目； 
 - 掌握监控、停车、通道、对讲、考勤等 5 大安防子系统的安装调试规程。
 
 ### **广联达科技股份有限公司** `采购运营助理 2018.07 - 2018.09`
-
 - 负责暖通设备供应商搜集、供采双方撮合及网站后台数据录入；
 - 协助集采经理日常工作，日均审核供应商及采购商信息 20 余家。
 
 ### **化工学院团委科技部** `部员/副部/部长 2016.10 - 2019.07`
-
 - 策划和组织化工学院“学术月”活动 2 次，累计参与学生达 600 人；
 - 开展 200 人以上学科竞赛经验交流会 8 场，公开举办软件技能培训 5 次。
-
 
 ## **合作伙伴**
 
 [**Zenglian Liu**](https://nwuzmed.ga/), Shaanxi Normal University `2021.08 - 今` <br>
-
 [**Erkang Yang**](https://nwuzmed.ga/), Xi’an University of Architecture and Technology `2021.06 - 今` <br>
-
----
 
 ## **荣誉奖项**
 
@@ -170,7 +163,7 @@ Annual Student Conference Chem-E-Car Competition® 9th Place `ORLANDO, FL 2019.1
 
 ## **公益实践**
 
-### 暑期文化科技卫生“三下乡”社会实践（副队长） `陕西，韩城 2017.07`
+### **暑期文化科技卫生“三下乡”社会实践（副队长）** `陕西，韩城 2017.07`
 - 协助队长进行项目申报和答辩，顺利成为 8 支校级重点团队之一；
 - 带领队员走访 4 个村镇，2 个产业园，完成座谈 5 场，问卷调查 200 份。
 
@@ -184,7 +177,7 @@ Annual Student Conference Chem-E-Car Competition® 9th Place `ORLANDO, FL 2019.1
 
 ### **全国大学生环保知识竞赛优秀奖** `2017.04` <br>
 
-### **第二届全国大学生预防艾滋病知识竞赛优秀奖** `2017.11` <br>
+### **全国大学生预防艾滋病知识竞赛优秀奖** `2017.11` <br>
 
 ### **“善行100”大学生公益志愿服务** `陕西，西安 2016.12`
 - 协助队长进行项目申报和答辩，顺利成为 8 支校级重点团队之一；
