@@ -31,7 +31,7 @@ Supported arguments:
 陕西, 西安
 ```
 
-- 硕士&emsp;&emsp;化工过程机械&emsp;&emsp;4.04/5
+- 硕士&emsp;&emsp;化工过程机械&emsp;&emsp;&emsp;&emsp;&emsp;4.04/5
 - 直接空气捕集CO₂设备的开发及应用研究（由[朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu)和[陈曦](https://www.engineering.columbia.edu/faculty/xi-chen)合作指导）
 - 弹塑性力学，现代材料学，机械设计方法学，腐蚀理论与应用技术，高等流体力学，过程装备技术进展
 
@@ -196,6 +196,6 @@ Annual Student Conference Chem-E-Car Competition® 9th Place `ORLANDO, FL 2019.1
 <br>
 <br>
 <br>
-Made with 💖 by <a href="https://github.com/NWUzmed/nwuzmed.github.io" target="_blank" rel="noopener">NWUzmed</a> 
+Made with 💖 by <a href="https://github.com/NWUzmed/nwuzmed.github.io" target="_blank" rel="noopener">NWUzmed</a>, 
 Download the<span class="print"> <a href="javascript:window.print()">PDF</a> </span> 
 <p align="right">Last updated: May 2022</p>
