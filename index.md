@@ -33,7 +33,7 @@ Supported arguments:
 
 - 硕士&emsp;&emsp;化工过程机械&emsp;&emsp;4.04/5
 - 直接空气捕集CO₂设备的开发及应用研究（由[朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu)和[陈曦](https://www.engineering.columbia.edu/faculty/xi-chen)合作指导）
-- 弹塑性力学、现代材料学、机械设计方法学、腐蚀理论与应用技术、高等流体力学、过程装备技术进展
+- 弹塑性力学，现代材料学，机械设计方法学，腐蚀理论与应用技术，高等流体力学，过程装备技术进展
 
 ### **西北大学** `2016.09 - 2020.06`
 
@@ -68,7 +68,7 @@ _国家级大学生创新创业训练计划项目_<br>
 
 ## **论文发表**
 
-### **4** [**CO2 removal in humid environment by ionexchange membranes**](https://www.sciencedirect.com/science/article/abs/pii/S1385894722015698)
+### **4** [**CO₂ removal in humid environment by ionexchange membranes**](https://github.com/nwuzmedoutlook)
 **Feng Li**, Yifan Zhang, Shiqiang Zheng, Jia Ni, Liangliang Zhu, Xi Chen<br> 
 _xxxxxxxxxx (xxxx,xxxxx,xxxx)_ <br>
 
@@ -87,11 +87,11 @@ _Materials Advances (2021, 2, 7187–7209)_<br>
 
 ## **专利申请**
 
-### **9** [**循环式温室大棚 CO₂ 气肥增施系统及增施方法**]
+### **9** [**循环式温室大棚 CO₂ 气肥增施系统及增施方法**](https://github.com/nwuzmedoutlook)
 **李锋**，xx，xxx，xx<br> 
 _[发明], 申请公布号：CNxxxxxxxxxx，公开公告日：2022.xx.xx_<br>
 
-### **8** [**基于湿法再生吸附材料的 CO₂ 直接空气捕集系统和方法**]
+### **8** [**基于湿法再生吸附材料的 CO₂ 直接空气捕集系统和方法**](https://github.com/nwuzmedoutlook)
 **李锋**，王凯，张继，朱亮亮，陈曦，王珮骅<br> 
 _[发明], 申请公布号：CNxxxxxxxxxx，公开公告日：2022.xx.xx_<br>
 
@@ -137,9 +137,13 @@ _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<
 - 负责暖通设备供应商搜集、供采双方撮合及网站后台数据录入；
 - 协助集采经理日常工作，日均审核供应商及采购商信息 20 余家。
 
-### **化工学院团委科技部** `部员/副部/部长 2016.10 - 2019.07`
-- 策划和组织化工学院“学术月”活动 2 次，累计参与学生达 600 人；
-- 开展 200 人以上学科竞赛经验交流会 8 场，公开举办软件技能培训 5 次。
+### **长安大学工程实训中心，金属加工工艺实习** `2017.07 - 2017.08`
+- 车工，铣工，线切割，数控车，数控铣，钳工，焊接，砂型铸造，热处理等；
+- AutoCAD，Solidworks等软件实训。
+
+### **专业认知实习** `2016.12 - 2019.08`
+- 中国石化集团南京化学工业有限公司化工机械厂，中国石油长庆石化公司、陕西省计量科学研究院、陕西东风车桥传动系统股份有限公司、陕西省产品质量监督检验研究院；
+- 西安国联质量检测技术股份有限公司、西安大众锅炉压力容器厂、西安恒旭装备制造有限公司。
 
 ## **合作伙伴**
 
