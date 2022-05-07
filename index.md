@@ -23,7 +23,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## 教育经历
+## **教育经历**
 
 ### **西北大学** `2020.09 - 2023.06`
 
@@ -44,7 +44,7 @@ Supported arguments:
 - 学士&emsp;&emsp;过程装备与控制工程&emsp;&emsp;3.11/4
 - 金属工艺学，工程力学，过程流体机械，工程材料，机械设计基础，化工容器设计，化工仪表及自动化，过程装备腐蚀与防护
 
-## 研究项目
+## **研究项目**
 
 ### **4 生物基CO₂空气捕集材料的构筑及其吸附机制研究**`研究助理 2022.01 - 2022.12`
 
@@ -70,7 +70,7 @@ _国家级大学生创新创业训练计划项目_<br>
 - 操作高压超临界 CO₂萃取设备顺利提取美洲大蠊药用成分 10 余次；
 - 协助其他成员分析实验数据，共同撰写项目结题报告 1 份。
 
-## 论文发表
+## **论文发表**
 
 ### **3** [**Ni-Fe bimetallic hexaaluminate for efficient reduction of O₂-containing CO₂ via chemical loopinge**](https://www.sciencedirect.com/science/article/abs/pii/S1385894722015698)
 Xueyan Sun, Liangliang Zhu, Wei Zhao, **Feng Li**, Xi Chen<br> 
@@ -85,7 +85,7 @@ _Journal of the Mechanics and Physics of Solids (Volume 157, December 2021, 1046
 Muhammad Ali Raza, **Feng Li**, Meidan Que, Liangliang Zhu and Xi Chen<br> 
 _Materials Advances (2021, 2, 7187–7209)_<br>
 
-## 专利申请
+## **专利申请**
 
 ### **7** [**一种提纯CO₂脱除SO₂的装置与方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN112957872B&uniplatform=NZKPT&v=pCwUzf6tjID5bWU7DZtSy5j3Xds_fS3vDtZ85yI0fa5G_vBkmrIOlAd2yQvL73U0)
 
@@ -122,7 +122,7 @@ _[实用新型], 授权公布号：CN214091393U，授权公告日：2021.08.31_<
 赵烁，庄子贤，郭思远，杨艳梅，**李锋**，魏利平<br> 
 _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<br>
 
-## 工作经历
+## **工作经历**
 
 ### **霖和气候科技（北京）有限公司** `碳捕集工程师 2021.07 - 2022.06`
 
@@ -145,7 +145,7 @@ _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<
 - 开展 200 人以上学科竞赛经验交流会 8 场，公开举办软件技能培训 5 次。
 
 
-## 合作伙伴
+## **合作伙伴**
 
 [**Zenglian Liu**](https://nwuzmed.ga/), Shaanxi Normal University `2021.08 - 今` <br>
 
@@ -153,7 +153,7 @@ _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<
 
 ---
 
-## 荣誉奖项
+## **荣誉奖项**
 
 西北大学硕士研究生一等学业奖学金 `2021.12` <br>
 西北大学硕士研究生一等学业奖学金 `2020.12` <br>
@@ -168,9 +168,9 @@ Annual Student Conference Chem-E-Car Competition® 9th Place `ORLANDO, FL 2019.1
 西北大学本科二等奖学金 `2017.12` <br>
 化工学院书画大赛一等奖 `2016.10` <br>
 
-## 公益实践
+## **公益实践**
 
-### **暑期文化科技卫生“三下乡”社会实践（副队长）** `陕西，韩城 2017.07`
+### 暑期文化科技卫生“三下乡”社会实践（副队长） `陕西，韩城 2017.07`
 - 协助队长进行项目申报和答辩，顺利成为 8 支校级重点团队之一；
 - 带领队员走访 4 个村镇，2 个产业园，完成座谈 5 场，问卷调查 200 份。
 
@@ -190,7 +190,7 @@ Annual Student Conference Chem-E-Car Competition® 9th Place `ORLANDO, FL 2019.1
 - 协助队长进行项目申报和答辩，顺利成为 8 支校级重点团队之一；
 - 带领队员走访 4 个村镇，2 个产业园，完成座谈 5 场，问卷调查 200 份。
 
-## 社会关系
+## **社会关系**
 
 **AIChE Young Professional Member**，009902691519 `Northwest University Student Chapter (Officer)，2020.06.13 - 今` <br>
 **中国机械工程学会（CMES）会员**，E012501953T `2019.02.28 - 今` <br>
