@@ -71,52 +71,52 @@ _国家级大学生创新创业训练计划项目_<br>
 
 ## 论文发表
 
-### [**3 Ni-Fe bimetallic hexaaluminate for efficient reduction of O~2~-containing CO~2~ via chemical loopinge**](https://www.sciencedirect.com/science/article/abs/pii/S1385894722015698)
+### 3 [**Ni-Fe bimetallic hexaaluminate for efficient reduction of O~2~-containing CO~2~ via chemical loopinge**](https://www.sciencedirect.com/science/article/abs/pii/S1385894722015698)
 Xueyan Sun, Liangliang Zhu, Wei Zhao, **Feng Li**, Xi Chen<br> 
 _Chemical Engineering Journal (Volume 441, 1 August 2022, 136071)_ <br>
 
-### [**2 On the snake-like lateral un-dulatory locomotion in terrestrial, aquatic and sand environments**](https://www.sciencedirect.com/science/article/abs/pii/S0022509621002696)
+### 2 [**On the snake-like lateral un-dulatory locomotion in terrestrial, aquatic and sand environments**](https://www.sciencedirect.com/science/article/abs/pii/S0022509621002696)
 Liangliang Zhu, Pengfei Yang, **Feng Li**, Kai Wang, Langquan Shui, Xi Chen<br>
 <!-- <i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br> -->
 _Journal of the Mechanics and Physics of Solids (Volume 157, December 2021, 104629)_<br>
 
-### [**1 Photocatalytic reduction of CO~2~ by halide perovskites: recent advances and future perspectives**](https://pubs.rsc.org/en/content/articlehtml/2021/ma/d1ma00703c)
+### 1 [**Photocatalytic reduction of CO~2~ by halide perovskites: recent advances and future perspectives**](https://pubs.rsc.org/en/content/articlehtml/2021/ma/d1ma00703c)
 Muhammad Ali Raza, **Feng Li**, Meidan Que, Liangliang Zhu and Xi Chen<br> 
 _Materials Advances (2021, 2, 7187–7209)_<br>
 
 ## 专利申请
 
-### [**7 一种提纯CO2脱除SO2的装置与方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN112957872B&uniplatform=NZKPT&v=pCwUzf6tjID5bWU7DZtSy5j3Xds_fS3vDtZ85yI0fa5G_vBkmrIOlAd2yQvL73U0)
+### 7 [**7 一种提纯CO2脱除SO2的装置与方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN112957872B&uniplatform=NZKPT&v=pCwUzf6tjID5bWU7DZtSy5j3Xds_fS3vDtZ85yI0fa5G_vBkmrIOlAd2yQvL73U0)
 
 朱亮亮，熊盈盈，**李锋**，姚禹彤，闫渊<br> 
 _[发明], 授权公布号：CN112957872B，授权公告日：2022.04.22_<br>
 
-### [**6 一种双季铵二氧化碳吸附树脂及其制备方法和应用**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN114031701A&uniplatform=NZKPT&v=cOjNkfukx6Q9wBYsh9xeUNMud7YITXf5lFjmMOZ6P9waYal8s1GDw-0ygF7Njlp7)
+### 6 [**6 一种双季铵二氧化碳吸附树脂及其制备方法和应用**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN114031701A&uniplatform=NZKPT&v=cOjNkfukx6Q9wBYsh9xeUNMud7YITXf5lFjmMOZ6P9waYal8s1GDw-0ygF7Njlp7)
 
 王雪茹，**李锋**，王凯，朱亮亮，张江天，陈曦<br> 
 _[发明], 申请公布号：CN114031701A，公开公告日：2022.02.11_<br>
 
-### [**5 一种利用非纯CO2养护水泥预制件的装置与方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN113650144A&uniplatform=NZKPT&v=gTARseiXZtLNpwDpICd0R-SI7ol9Qdvj-hC94FaaikVqm5V667JJjQQVaV5PHMqw)
+### 5 [**一种利用非纯CO2养护水泥预制件的装置与方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN113650144A&uniplatform=NZKPT&v=gTARseiXZtLNpwDpICd0R-SI7ol9Qdvj-hC94FaaikVqm5V667JJjQQVaV5PHMqw)
 
 刘立熙，朱亮亮，王雪茹，田慧英，**李锋**，陈曦<br> 
 _[发明], 申请公布号：CN113650144A，公开公告日：2021.11.16_<br>
 
-### [**4 移动式温室大棚CO2气肥增施装置及CO2气肥增施方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2021&filename=CN112005756A&uniplatform=NZKPT&v=-aE0eCFz02oM7vB-dJvKIpCM3ILpZ_hodfr3R9422AnHVmU5QEFdLt5c7vpr52IK)
+### 4 [**移动式温室大棚CO2气肥增施装置及CO2气肥增施方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2021&filename=CN112005756A&uniplatform=NZKPT&v=-aE0eCFz02oM7vB-dJvKIpCM3ILpZ_hodfr3R9422AnHVmU5QEFdLt5c7vpr52IK)
 
 **李锋**，朱亮亮，陈曦，闫渊<br> 
 _[发明], 申请公布号：CN112005756A，公开公告日：2020.12.01_ <br>
 
-### [**3 一种基于过硫酸盐型碘钟反应的自控金属空气电池小车**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN214138763U&uniplatform=NZKPT&v=bDDQfEaHy-wOJVDu9z8ml0T3k79rz7Yo3vp6MArjlHluLUr0ofA8d2APt1j0QX1o)
+### 3 [**一种基于过硫酸盐型碘钟反应的自控金属空气电池小车**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN214138763U&uniplatform=NZKPT&v=bDDQfEaHy-wOJVDu9z8ml0T3k79rz7Yo3vp6MArjlHluLUr0ofA8d2APt1j0QX1o)
 
 张婉玉，曹锐，**李锋**，曹宏晨，陈禹志，管思楠，苏雪，张屿，李丹，李亚男，黄佳怡，贾雨欣，王倩，杜沁芮，高雨豪<br> 
 _[实用新型], 授权公布号：CN214138763U，授权公告日：2021.09.07_<br>
 
-### [**2 一种用于改装传统机械门锁的开锁装置**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2021&filename=CN214091393U&uniplatform=NZKPT&v=Ge1mG1V2RuxFJfXdMbGnG4vcYzyonvEU_Xi7GfHJgCXftiD-xU7xo5lLNYxJsQGm)
+### 2 [**一种用于改装传统机械门锁的开锁装置**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2021&filename=CN214091393U&uniplatform=NZKPT&v=Ge1mG1V2RuxFJfXdMbGnG4vcYzyonvEU_Xi7GfHJgCXftiD-xU7xo5lLNYxJsQGm)
 
 谭应鹏，武玮，黄佳怡，刘佳薇，樊锡琳，刘云鹏，王凯，**李锋**，王健<br> 
 _[实用新型], 授权公布号：CN214091393U，授权公告日：2021.08.31_<br>
 
-### [**1 一种新型辅助人工草莓采摘器**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN208956465U&uniplatform=NZKPT&v=07rb9qUhkQ3jdaW926T5-bo5Aul6WFDoTOXdKxHNJVhXlfIbV5HnvK1gcww6YF5O)
+### 1 [**一种新型辅助人工草莓采摘器**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN208956465U&uniplatform=NZKPT&v=07rb9qUhkQ3jdaW926T5-bo5Aul6WFDoTOXdKxHNJVhXlfIbV5HnvK1gcww6YF5O)
 
 赵烁，庄子贤，郭思远，杨艳梅，李锋，魏利平<br> 
 _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<br>
@@ -147,9 +147,9 @@ _部员/副部/部长_<br>
 
 ## 合作伙伴
 
-[Zenglian Liu](https://nwuzmed.ga/) (Shaanxi Normal University, [REUSE](https://nwuzmed.ga/)) `2021 - Now` <br>
+[**Zenglian Liu**](https://nwuzmed.ga/), Shaanxi Normal University `2021 - 今` <br>
 
-[Erkang Yang](https://nwuzmed.ga/) (Xi’an University of Architecture and Technology, [REUSE](https://nwuzmed.ga/)) `2021 - Now` <br>
+[**Erkang Yang**](https://nwuzmed.ga/), Xi’an University of Architecture and Technology `2021 - 今` <br>
 
 ---
 
@@ -195,12 +195,13 @@ _通讯员/副队长_<br>
 
 ## 社会关系
 
-AIChE Young Professional Member，009902691519 `Northwest University Student Chapter (Officer)，2020.06.13 - 今` <br>
-中国机械工程学会（CMES）会员，E012501953T `2019.02.28 - 今` <br>
-中国化工学会（CIESC）会员，E350013693S `2017.10.08 - 今` <br>
+**AIChE Young Professional Member**，009902691519 `Northwest University Student Chapter (Officer)，2020.06.13 - 今` <br>
+**中国机械工程学会（CMES）会员**，E012501953T `2019.02.28 - 今` <br>
+**中国化工学会（CIESC）会员**，E350013693S `2017.10.08 - 今` <br>
 
-
-
+<br>
+<br>
+<br>
 Made with 💖 by <a href="https://github.com/NWUzmed/nwuzmed.github.io" target="_blank" rel="noopener">NWUzmed</a> 
 Download the<span class="print"> <a href="javascript:window.print()">PDF</a> </span> 
 Last updated: May 2022
