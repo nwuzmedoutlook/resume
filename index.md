@@ -67,13 +67,13 @@ _国家级大学生创新创业训练计划项目_<br>
 - 协助其他成员分析实验数据，共同撰写项目结题报告 1 份。
 
 ### **2 基于过硫酸盐型碘钟反应的自控金属空气电池小车** `机械组长 2018.11 - 2020.11`
-_中国大学生Chem-E-Car竞赛项目_<br>
+_中国大学生 Chem-E-Car 竞赛项目_<br>
 - 负责4套小车及零部件的平面设计和三维建模，全程跟踪3D打印和机床加工，并顺利进行组装和性能测试；
-- 作品参加Chem-E-Car竞赛：2019年获得[中国赛区第1名](http://jyt.shaanxi.gov.cn/jynews/mtsj/201905/27/90745.html)，赴美参赛获[世界第9名](https://mp.weixin.qq.com/s/IymNT19XfMbOyEZV4h1NSA)；2020年获[中国赛区三等奖](https://mp.weixin.qq.com/s/YT2j5jlLTe0vyI3sgFE7TQ)，授权1项[实用新型专利](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN214138763U&uniplatform=NZKPT&v=bDDQfEaHy-wOJVDu9z8ml0T3k79rz7Yo3vp6MArjlHluLUr0ofA8d2APt1j0QX1o)。
+- 作品参加 Chem-E-Car 竞赛：2019年获得[中国赛区第1名](http://jyt.shaanxi.gov.cn/jynews/mtsj/201905/27/90745.html)，赴美参赛获[世界第9名](https://mp.weixin.qq.com/s/IymNT19XfMbOyEZV4h1NSA)；2020年获[中国赛区三等奖](https://mp.weixin.qq.com/s/YT2j5jlLTe0vyI3sgFE7TQ)，授权1项[实用新型专利](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN214138763U&uniplatform=NZKPT&v=bDDQfEaHy-wOJVDu9z8ml0T3k79rz7Yo3vp6MArjlHluLUr0ofA8d2APt1j0QX1o)。
 
 ### **1 多功能辅助人工水果采摘器** `设计成员 2017.11 - 2018.05`
 _全国大学生机械创新设计大赛项目_<br>
-- 负责运用Solidworks绘制部分设计图纸，制作解说视频、海报、PPt各1份；
+- 负责运用 Solidworks 绘制部分设计图纸，制作解说视频、海报、PPt各1份；
 - 参赛作品获得[全国总决赛二等奖](http://umic.ckcest.cn/news/detail/3d17c9cddfe44a92bfa6dfc59e145d12)及[陕西赛区一等奖](https://mp.weixin.qq.com/s/K8aQE8RCJNUMNt407wauYA)，已授权1项[实用新型专利](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN208956465U&uniplatform=NZKPT&v=07rb9qUhkQ3jdaW926T5-bo5Aul6WFDoTOXdKxHNJVhXlfIbV5HnvK1gcww6YF5)。
 
 ## **论文发表**
@@ -117,7 +117,7 @@ _[发明], 申请公布号：CN114031701A，公开公告日：2022.02.11_<br>
 刘立熙，朱亮亮，王雪茹，田慧英，**李锋**，陈曦<br> 
 _[发明], 申请公布号：CN113650144A，公开公告日：2021.11.16_<br>
 
-### **4** [**移动式温室大棚 CO₂ 气肥增施装置及CO₂气肥增施方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2021&filename=CN112005756A&uniplatform=NZKPT&v=-aE0eCFz02oM7vB-dJvKIpCM3ILpZ_hodfr3R9422AnHVmU5QEFdLt5c7vpr52IK)
+### **4** [**移动式温室大棚 CO₂ 气肥增施装置及 CO₂ 气肥增施方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2021&filename=CN112005756A&uniplatform=NZKPT&v=-aE0eCFz02oM7vB-dJvKIpCM3ILpZ_hodfr3R9422AnHVmU5QEFdLt5c7vpr52IK)
 **李锋**，朱亮亮，陈曦，闫渊<br> 
 _[发明], 申请公布号：CN112005756A，公开公告日：2020.12.01_ <br>
 
