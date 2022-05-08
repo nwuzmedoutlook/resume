@@ -198,14 +198,14 @@ Annual Student Conference Chem-E-Car Competition® 9th Place `ORLANDO, FL 2019.1
 
 ## **社会关系**
 
-**AIChE Young Professional Member**，009902691519 `Northwest University Student Chapter (Officer)，2020.06.13 - 今` <br>
-**中国机械工程学会（CMES）会员**，E012501953T `2019.02.28 - 今` <br>
-**中国化工学会（CIESC）会员**，E350013693S `2017.10.08 - 今` <br>
+**[AIChE](https://www.aiche.org/) Young Professional Member**，009902691519 `Northwest University Student Chapter (Officer)，2020.06.13 - 今` <br>
+**[中国机械工程学会](https://www.cmes.org/)（CMES）会员**，E012501953T `2019.02.28 - 今` <br>
+**[中国化工学会](http://www.ciesc.cn/)（CIESC）会员**，E350013693S `2017.10.08 - 今` <br>
 
 ## **合作伙伴**
 
-[**Zenglian Liu**](https://nwuzmed.ga/), Shaanxi Normal University `2021.08 - 今` <br>
-[**Erkang Yang**](https://nwuzmed.ga/), Xi’an University of Architecture and Technology `2021.06 - 今` <br>
+[**Zenglian Liu**](https://nwuzmed.ga/), [Shaanxi Normal University](http://www.snnu.edu.cn/) `2021.08 - 今` <br>
+[**Erkang Yang**](https://nwuzmed.ga/), [Xi’an University of Architecture and Technology](https://www.xauat.edu.cn/) `2021.06 - 今` <br>
 
 <br>
 <br>
