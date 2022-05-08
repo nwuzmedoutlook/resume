@@ -11,7 +11,7 @@ phone:
   189****8216
 ---
 
-# NWUzmed's  **resume**&emsp;&emsp;&emsp;&emsp;&emsp;![头像](http://ys-e.ysepan.com/618551394/616038473/h73286L466PJGmqOSMi09/avatar.png)
+# NWUzmed's  **resume**&emsp;![头像](http://ys-e.ysepan.com/618551394/616038473/h73286L466PJGmqOSMi09/avatar.png)
 
 <!--
 include contact information from the front matter
