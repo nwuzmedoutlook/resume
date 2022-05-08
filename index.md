@@ -8,7 +8,7 @@ homepage:
   url: https://co2co2.cf
   text: https://co2co2.cf
 phone:
-  189****8216
+  [189****8216](https://goooogle.cf/)
 ---
 
 # NWUzmed's  **resume**
