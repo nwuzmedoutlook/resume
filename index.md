@@ -32,7 +32,7 @@ Supported arguments:
 ```
 
 - 硕士&emsp;&emsp;化工过程机械&emsp;&emsp;&emsp;&emsp;&emsp;4.04/5
-- 直接空气捕集CO₂设备的开发及应用研究（由[朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu)和[陈曦](https://www.engineering.columbia.edu/faculty/xi-chen)合作指导）
+- 直接空气捕集 CO₂ 设备的开发及应用研究（由[朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu)和[陈曦](https://www.engineering.columbia.edu/faculty/xi-chen)合作指导）
 - 弹塑性力学，现代材料学，机械设计方法学，腐蚀理论与应用技术，高等流体力学，过程装备技术进展
 
 ### **西北大学** `2016.09 - 2020.06`
@@ -46,12 +46,12 @@ Supported arguments:
 
 ## **研究项目**
 
-### **6 生物基CO₂空气捕集材料的构筑及其吸附机制研究**`研究助理 2022.01 - 2022.12`
+### **6 生物基 CO₂ 空气捕集材料的构筑及其吸附机制研究**`研究助理 2022.01 - 2022.12`
 _西安市科协青年人才托举计划项目_<br>
 - 基于壳聚糖基多孔复合材料进行了 20 余次 CO₂ 吸附/脱附循环性能测试；
 - 初步揭示捕集材料的理化性质及环境因素对 CO₂ 吸附/脱附性能的影响。
 
-### **5 基于湿法再生吸附材料的CO₂直接空气捕集系统** `设计助理 2021.10 - 2022.06`
+### **5 基于湿法再生吸附材料的 CO₂ 直接空气捕集系统** `设计助理 2021.10 - 2022.06`
 _校企合作项目：霖和气候科技（北京）有限公司_<br>
 - 负责 CO₂ 直接空气捕集系统的初步设计、图纸修改和全流程技术沟通；
 - 当前系统处于加工组装阶段，依据设计内容撰写发明专利 1 项。
@@ -63,7 +63,7 @@ _校企合作项目：陕西海戎泓远创新科技有限公司_<br>
 
 ### **3 [美洲大蠊抗氧化物质提取的最优工艺研究及成分分析](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=278955&year=2018&type=student&IsLXItem=0)** `实验助理 2018.09 - 2019.05`
 _国家级大学生创新创业训练计划项目_<br>
-- 操作高压超临界 CO₂萃取设备顺利提取美洲大蠊药用成分 10 余次；
+- 操作高压超临界 CO₂ 萃取设备顺利提取美洲大蠊药用成分 10 余次；
 - 协助其他成员分析实验数据，共同撰写项目结题报告 1 份。
 
 ### **2 基于过硫酸盐型碘钟反应的自控金属空气电池小车** `机械组长 2018.11 - 2020.11`
@@ -105,7 +105,7 @@ _[发明], 申请公布号：CNxxxxxxxxxx，公开公告日：2022.xx.xx_<br>
 **李锋**，王凯，张继，朱亮亮，陈曦，王珮骅<br> 
 _[发明], 申请公布号：CNxxxxxxxxxx，公开公告日：2022.xx.xx_<br>
 
-### **7** [**一种提纯CO₂脱除SO₂的装置与方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN112957872B&uniplatform=NZKPT&v=pCwUzf6tjID5bWU7DZtSy5j3Xds_fS3vDtZ85yI0fa5G_vBkmrIOlAd2yQvL73U0)
+### **7** [**一种提纯 CO₂ 脱除 SO₂ 的装置与方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN112957872B&uniplatform=NZKPT&v=pCwUzf6tjID5bWU7DZtSy5j3Xds_fS3vDtZ85yI0fa5G_vBkmrIOlAd2yQvL73U0)
 朱亮亮，熊盈盈，**李锋**，姚禹彤，闫渊<br> 
 _[发明], 授权公布号：CN112957872B，授权公告日：2022.04.22_<br>
 
@@ -113,11 +113,11 @@ _[发明], 授权公布号：CN112957872B，授权公告日：2022.04.22_<br>
 王雪茹，**李锋**，王凯，朱亮亮，张江天，陈曦<br> 
 _[发明], 申请公布号：CN114031701A，公开公告日：2022.02.11_<br>
 
-### **5** [**一种利用非纯CO₂养护水泥预制件的装置与方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN113650144A&uniplatform=NZKPT&v=gTARseiXZtLNpwDpICd0R-SI7ol9Qdvj-hC94FaaikVqm5V667JJjQQVaV5PHMqw)
+### **5** [**一种利用非纯 CO₂ 养护水泥预制件的装置与方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN113650144A&uniplatform=NZKPT&v=gTARseiXZtLNpwDpICd0R-SI7ol9Qdvj-hC94FaaikVqm5V667JJjQQVaV5PHMqw)
 刘立熙，朱亮亮，王雪茹，田慧英，**李锋**，陈曦<br> 
 _[发明], 申请公布号：CN113650144A，公开公告日：2021.11.16_<br>
 
-### **4** [**移动式温室大棚CO₂气肥增施装置及CO₂气肥增施方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2021&filename=CN112005756A&uniplatform=NZKPT&v=-aE0eCFz02oM7vB-dJvKIpCM3ILpZ_hodfr3R9422AnHVmU5QEFdLt5c7vpr52IK)
+### **4** [**移动式温室大棚 CO₂ 气肥增施装置及CO₂气肥增施方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2021&filename=CN112005756A&uniplatform=NZKPT&v=-aE0eCFz02oM7vB-dJvKIpCM3ILpZ_hodfr3R9422AnHVmU5QEFdLt5c7vpr52IK)
 **李锋**，朱亮亮，陈曦，闫渊<br> 
 _[发明], 申请公布号：CN112005756A，公开公告日：2020.12.01_ <br>
 
