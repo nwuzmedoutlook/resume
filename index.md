@@ -151,11 +151,11 @@ _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<
 - 策划和组织[化工学院“学术月”](https://mp.weixin.qq.com/s/UgIVy5UeKuFxS3Vi09fEmA)活动 2 次，累计参与学生达 600 人；
 - 开展 200 人以上[学科竞赛经验交流会](https://mp.weixin.qq.com/s/0kJe_p-sTEDtmUFGmFeMxQ) 8 场，公开举办软件技能培训 5 次。
 
-### **[长安大学现代工程训练中心](https://gcxlzx.chd.edu.cn/)，金属加工工艺实习** `2017.07 - 2017.08`
-- 车工，铣工，线切割，数控车，数控铣，钳工，焊接，砂型铸造，热处理等；
+### **[长安大学现代工程训练中心](https://gcxlzx.chd.edu.cn/)·金属加工工艺实习** `2017.07 - 2017.08`
+- 车工，铣工，钳工，焊接，砂型铸造，热处理，线切割，数控车，数控铣等；
 - AutoCAD，Solidworks，ANSYS等软件实训。
 
-### **专业认知实习** `2016.12 - 2019.08`
+### **各地·专业认知实习** `2016.12 - 2019.08`
 - [中国石化南化公司](http://ncic.sinopec.com/ncic/)化工机械厂，[中国石油长庆石化公司](https://www.cnpc.com.cn/cnpc/lhqy/201404/d41fe0c79d39466daf09c1fee10f7708.shtml)，[陕西省计量科学研究院](http://www.sims.ac.cn/)，[陕西省产品质量监督检验研究院](http://www.snzhijian.org.cn/)；
 - [陕西东铭车辆系统股份有限公司](http://www.sxqc.com/dlxtjgjlbj/index_43.aspx)，[西安国联质量检测技术股份有限公司](http://www.xaunqd.com/)，[西安大众锅炉压力容器厂](https://mp.weixin.qq.com/s/zzH7WiTnvl_LsqW9_YNZtw)，[西安恒旭装备制造有限公司](http://hxgx.com/)。
 
