@@ -98,7 +98,7 @@ _Materials Advances (2021, 2, 7187–7209)_<br>
 ## **专利申请**
 
 ### **9** [**循环式温室大棚 CO₂ 气肥增施系统及增施方法**](https://github.com/nwuzmedoutlook)
-**李锋**，xx，xxx，xx<br> 
+朱亮亮，**李锋**，陈曦，张江天，张继，邓晓彬<br> 
 _[发明], 申请公布号：CNxxxxxxxxxx，公开公告日：2022.xx.xx_<br>
 
 ### **8** [**基于湿法再生吸附材料的 CO₂ 直接空气捕集系统和方法**](https://github.com/nwuzmedoutlook)
