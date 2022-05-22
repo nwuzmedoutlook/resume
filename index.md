@@ -181,8 +181,8 @@ Annual Student Conference Chem-E-Car Competition® 9th Place `ORLANDO, FL 2019.1
 - 带领队员走访 4 个村镇，2 个产业园，完成座谈 5 场，问卷调查 200 份。
 
 ### **暑期文化科技卫生“三下乡”社会实践（通讯员）** `陕西，宝鸡 2017.07`
-- 协助队长进行项目申报和答辩，[团队成功立项](https://tuanwei.nwu.edu.cn/info/1007/2630.htm)；
-- xxxxxxxxxxxxx。
+- 协助队长进行项目申报和答辩，[团队成功获得校级立项](https://tuanwei.nwu.edu.cn/info/1007/2630.htm)；
+- 作为通讯员，持续记录活动期间所见所闻，发布多篇[图文](https://mp.weixin.qq.com/s/QtL5aYdVBR1ZNio-wnIMEA)、[影音](https://v.qq.com/x/page/l05593edvev.html)稿件。
 
 ### **碧桂园西安国际马拉松志愿服务** `陕西，西安 2017.10`
 
@@ -193,8 +193,8 @@ Annual Student Conference Chem-E-Car Competition® 9th Place `ORLANDO, FL 2019.1
 ### **全国大学生预防艾滋病知识竞赛优秀奖** `2017.11` <br>
 
 ### **“善行100”大学生公益志愿服务** `陕西，西安 2016.12`
-- 协助队长进行项目申报和答辩，顺利成为 8 支校级重点团队之一；
-- 带领队员走访 4 个村镇，2 个产业园，完成座谈 5 场，问卷调查 200 份。
+- 与团队成员一同为贫困地区儿童筹集善款，邮件爱心包裹；
+- 获得一星级善行100志愿者证书、化工学院“最美志愿者”称号。
 
 ## **社会关系**
 
