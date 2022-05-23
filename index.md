@@ -6,12 +6,13 @@ email:
   text: nwuzmed@outlook.com
 homepage:
   url: https://co2co2.cf
-  text: https://co2co2.cf
+  text: NWUzmed's world
 phone:
   189****8216
 more:
   url: https://goooogle.cf/
-  text: https://goooogle.cf/
+  text: 更多信息
+
 ---
 
 # NWUzmed's **resume**![头像](https://s2.loli.net/2022/05/09/ygm4WSekXjIisBH.png)
