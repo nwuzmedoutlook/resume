@@ -22,6 +22,7 @@ Supported arguments:
     - homepage: url, text
     - phone
     - email
+    - more: url, text
 -->
 
 {% include cv-contact.html %}
