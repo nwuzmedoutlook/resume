@@ -9,6 +9,9 @@ homepage:
   text: https://co2co2.cf
 phone:
   189****8216
+more:
+  url: https://goooogle.cf/
+  text: https://goooogle.cf/
 ---
 
 # NWUzmed's **resume**![头像](https://s2.loli.net/2022/05/09/ygm4WSekXjIisBH.png)
