@@ -14,5 +14,10 @@
     <i class="fi-telephone" style="margin-left:1em"></i>
     {{ page.phone }}
     {% endif %}
+    
+    {% if page.more %}
+    <i class="fi-cloud" style="margin-left:1em"></i>
+    <a href="{{ page.more.url }}" style="margin-left:0.5em"> {{ page.homepage.text }}</a>
+    {% endif %} 
 
 </div>
