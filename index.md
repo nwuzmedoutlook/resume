@@ -1,3 +1,6 @@
+<head>
+    <base target="_blank">
+</head>
 ---
 layout: cv
 title: Resume
