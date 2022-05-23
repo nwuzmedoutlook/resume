@@ -101,9 +101,9 @@ _Materials Advances (2021, 2, 7187–7209)_<br>
 朱亮亮，**李锋**，陈曦，张江天，张继，邓晓彬<br> 
 _[发明], 申请公布号：CNxxxxxxxxxx，公开公告日：2022.xx.xx_<br>
 
-### **8** [**基于湿法再生吸附材料的 CO₂ 直接空气捕集系统和方法**](https://github.com/nwuzmedoutlook)
+### **8** [**一种基于湿法再生吸附材料的 CO₂ 直接空气捕集系统和方法**](https://github.com/nwuzmedoutlook)
 **李锋**，王凯，张继，朱亮亮，陈曦，王珮骅<br> 
-_[发明], 申请公布号：CNxxxxxxxxxx，公开公告日：2022.xx.xx_<br>
+_[发明], 申请公布号：CN114452768A，公开公告日：2022.05.10_<br>
 
 ### **7** [**一种提纯 CO₂ 脱除 SO₂ 的装置与方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN112957872B&uniplatform=NZKPT&v=pCwUzf6tjID5bWU7DZtSy5j3Xds_fS3vDtZ85yI0fa5G_vBkmrIOlAd2yQvL73U0)
 朱亮亮，熊盈盈，**李锋**，姚禹彤，闫渊<br> 
