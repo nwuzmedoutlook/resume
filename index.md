@@ -102,6 +102,10 @@ _Materials Advances (2021, 2, 7187–7209)_<br>
 
 ## **专利申请**
 
+### **10** [**一种基于湿法再生二氧化碳捕集材料的从集中二氧化碳排放源中脱碳的方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN114558414A&uniplatform=NZKPT&v=agT-KGitEW4W5UGkLpTMFC1HArT4nTHe6nvP_ZJeG-7NTa7kkihMptheBJcBcGjo)
+王凯，**李锋**，朱亮亮，陈曦<br> 
+_[发明], 申请公布号：CN114558414A，公开公告日：2022.05.31_<br>
+
 ### **9** [**循环式温室大棚 CO₂ 气肥增施系统及增施方法**](https://github.com/nwuzmedoutlook)
 朱亮亮，**李锋**，陈曦，张江天，张继，邓晓彬<br> 
 _[发明], 申请公布号：CNxxxxxxxxxx，公开公告日：2022.xx.xx_<br>
@@ -122,9 +126,9 @@ _[发明], 申请公布号：CN114031701A，公开公告日：2022.02.11_<br>
 刘立熙，朱亮亮，王雪茹，田慧英，**李锋**，陈曦<br> 
 _[发明], 申请公布号：CN113650144A，公开公告日：2021.11.16_<br>
 
-### **4** [**移动式温室大棚 CO₂ 气肥增施装置及 CO₂ 气肥增施方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2021&filename=CN112005756A&uniplatform=NZKPT&v=-aE0eCFz02oM7vB-dJvKIpCM3ILpZ_hodfr3R9422AnHVmU5QEFdLt5c7vpr52IK)
+### **4** [**移动式温室大棚 CO₂ 气肥增施装置及 CO₂ 气肥增施方法**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2022&filename=CN112005756B&uniplatform=NZKPT&v=-aE0eCFz02rsaB1Q2D9x9ZO7wpusiNzapHYzqhve72-_dTzI5c_6fijhp1mILq3p)
 **李锋**，朱亮亮，陈曦，闫渊<br> 
-_[发明], 申请公布号：CN112005756A，公开公告日：2020.12.01_ <br>
+_[发明], 授权公布号：CN112005756B，授权公告日：2022.06.10_ <br>
 
 ### **3** [**一种基于过硫酸盐型碘钟反应的自控金属空气电池小车**](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN214138763U&uniplatform=NZKPT&v=bDDQfEaHy-wOJVDu9z8ml0T3k79rz7Yo3vp6MArjlHluLUr0ofA8d2APt1j0QX1o)
 张婉玉，曹锐，**李锋**，曹宏晨，陈禹志，管思楠，苏雪，张屿，李丹，李亚男，黄佳怡，贾雨欣，王倩，杜沁芮，高雨豪<br> 
