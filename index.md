@@ -221,4 +221,4 @@ Annual Student Conference Chem-E-Car Competition® 9th Place `ORLANDO, FL 2019.1
 <br>
 Made with 💖 by <a href="https://co2co2.cf" target="_blank" rel="noopener">NWUzmed</a>, 
 Download the<span class="print"> <a href="javascript:window.print()">PDF</a> </span> 
-<p align="right">Last updated: May 22, 2022</p>
+<p align="right">Last updated: Jun 22, 2022</p>
