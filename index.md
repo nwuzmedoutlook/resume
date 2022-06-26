@@ -106,7 +106,7 @@ _Materials Advances (2021, 2, 7187–7209)_<br>
 王凯，**李锋**，朱亮亮，陈曦<br> 
 _[发明], 申请公布号：CN114558414A，公开公告日：2022.05.31_<br>
 
-### **9** [**循环式温室大棚 CO₂ 气肥增施系统及增施方法**](https://github.com/nwuzmedoutlook)
+### **9** [**循环式温室大棚 CO₂ 气肥增施系统及增施方法**](https://expert.cnki.net/Expert/Detail/0000001082301856.htm)
 朱亮亮，**李锋**，陈曦，张江天，张继，邓晓彬<br> 
 _[发明], 申请公布号：CNxxxxxxxxxx，公开公告日：2022.xx.xx_<br>
 
