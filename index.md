@@ -213,7 +213,7 @@ Annual Student Conference Chem-E-Car Competition® 9th Place `ORLANDO, FL 2019.1
 
 ## **合作伙伴**
 
-[**Zenglian Liu**](https://nwuzmed.ga/), [Shaanxi Normal University](http://www.snnu.edu.cn/) `2021.08 - 今` <br>
+[**Zenglian Liu**](https://kns.cnki.net/kcms/detail/knetsearch.aspx?dbcode=CJFD&code=000015033702&sfield=au&skey=%e5%88%98%e6%9b%be%e8%bf%9e&uniplatform=NZKPT), [Shaanxi Normal University](http://www.snnu.edu.cn/) `2021.08 - 今` <br>
 [**Erkang Yang**](https://nwuzmed.ga/), [Xi’an University of Architecture and Technology](https://www.xauat.edu.cn/) `2021.06 - 今` <br>
 
 <br>
