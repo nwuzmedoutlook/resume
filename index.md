@@ -83,7 +83,7 @@ _全国大学生机械创新设计大赛项目_<br>
 
 ## **论文发表**
 
-### **4** [**CO₂ removal in humid environment by ionexchange membranes**](https://onlinelibrary.wiley.com/action/doSearch?AllField=CO2+removal+in+humid+environment+by+ion-exchange+membranes)
+### **4** [**CO₂ removal in humid environment by ionexchange membranes**](https://onlinelibrary.wiley.com/doi/10.1002/apj.2816)
 **Feng Li**, Yifan Zhang, Shiqiang Zheng, Kai Wang, Jia Ni, Liangliang Zhu, Xi Chen<br> 
 _Asia-Pacific Journal of Chemical Engineering (xxxx,xxxxx,xxxx)_ <br>
 
