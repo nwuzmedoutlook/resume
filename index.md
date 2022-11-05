@@ -142,19 +142,19 @@ _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<
 
 ## **实践经历**
 
-### **[远景能源（无锡）](https://mp.weixin.qq.com/s/XoXXZxPTOIPaaENxTI8IDQ)** `风机机械集成工艺工程师 2023.07 - `
+### **[远景能源有限公司，研发部](https://www.envision-group.com/cn/energy.html)** `风机机械集成工艺工程师 2023.07 - `
 
-### **[Micron（西安）](https://mp.weixin.qq.com/s/XoXXZxPTOIPaaENxTI8IDQ)** `新产品导入工程师 2022.06 - 2022.08`
+### **[Micron Semiconductor (Xi' an) Co., Ltd.，Module工程部](https://cn.micron.com/)** `新产品导入工程师 2022.06 - 2022.08`
 
-### **[霖和气候（西安）](https://mp.weixin.qq.com/s/XoXXZxPTOIPaaENxTI8IDQ)** `碳捕集工程师 2021.07 - 2022.06`
+### **[霖和气候科技（北京）有限公司，碳捕集技术研发部](https://mp.weixin.qq.com/s/XoXXZxPTOIPaaENxTI8IDQ)** `碳捕集工程师 2021.07 - 2022.06`
 <!-- - 负责运行和管理 5 kg 级 CO₂ 空气捕集装置、桌面级富碳生态系统；
 - 探索出制备 0-99.9% 任意体积浓度 CO₂ 气体的工艺路线，撰写论文 1 篇。
  -->
-### **[海康威视（西安）](https://www.hikvision.com/cn/)** `技术支持工程师 2019.07 - 2019.09`
+### **[杭州海康威视数字技术股份有限公司西安分公司，技术服务部](https://www.hikvision.com/cn/)** `技术支持工程师 2019.07 - 2019.09`
 
-### **[广联达（西安）](https://www.glodon.com/)** `采购运营助理 2018.07 - 2018.09`
+### **[广联达科技股份有限公司西安客户服务中心，集中采集部](https://www.glodon.com/)** `采购运营助理 2018.07 - 2018.09`
 
-### **[化工学院团委科技部](https://www.glodon.com/)** `部员/副部/部长 2016.10 - 2019.07`
+### **[化工学院团委，科技部](https://chin.nwu.edu.cn/)** `部员/副部/部长 2016.10 - 2019.07`
 - [化工学院“学术月”](https://mp.weixin.qq.com/s/UgIVy5UeKuFxS3Vi09fEmA)、[学科竞赛经验交流会](https://mp.weixin.qq.com/s/0kJe_p-sTEDtmUFGmFeMxQ)
 
 ### **[长安大学现代工程训练中心](https://gcxlzx.chd.edu.cn/)·金属加工工艺实习** `2017.07 - 2017.08`
