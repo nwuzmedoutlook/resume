@@ -38,7 +38,7 @@ Supported arguments:
 
 - 硕士&emsp;&emsp;化工过程机械&emsp;&emsp;&emsp;&emsp;&emsp;3.83/4
 - 直接空气捕集 CO₂ 设备的开发及应用研究（由[朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu)和[陈曦](https://www.engineering.columbia.edu/faculty/xi-chen)合作指导）
-- 弹塑性力学，现代材料学，机械设计方法学，腐蚀理论与应用技术，高等流体力学，过程装备技术进展
+- 弹塑性力学，现代材料学，机械设计方法学，腐蚀理论与应用技术，高等流体力学
 
 ### **西北大学** `2016.09 - 2020.06`
 
@@ -53,31 +53,23 @@ Supported arguments:
 
 ### **6 生物基 CO₂ 空气捕集材料的构筑及其吸附机制研究**`研究助理 2022.01 - 2022.12`
 _西安市科协青年人才托举计划项目_<br>
-- 基于壳聚糖基多孔复合材料进行了 20 余次 CO₂ 吸附/脱附循环性能测试；
-- 初步揭示捕集材料的理化性质及环境因素对 CO₂ 吸附/脱附性能的影响。
 
 ### **5 基于湿法再生吸附材料的 CO₂ 直接空气捕集系统** `设计负责 2021.12 - 2022.06`
-- 负责 CO₂ 直接空气捕集系统的初步设计、图纸修改和全流程技术沟通；
-- 当前系统处于加工组装阶段，依据设计内容撰写发明专利 1 项。
+_硕士毕业设计_<br>
 
 ### **4 富碳农业温室大棚增碳装置** `设计负责 2021.01 - 2021.09`
-- 负责 18 kg 干湿法 CO₂ 捕集材料的预处理、改性和后处理；
-- 成功制备材料并搭建简易循环式增碳系统进行测试，撰写发明专利 1 项。
+_本科毕业设计_<br>
 
 ### **3 [美洲大蠊抗氧化物质提取的最优工艺研究及成分分析](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=278955&year=2018&type=student&IsLXItem=0)** `实验助理 2018.09 - 2019.05`
 _国家级大学生创新创业训练计划项目_<br>
-- 操作高压超临界 CO₂ 萃取设备顺利提取美洲大蠊药用成分 10 余次；
-- 协助其他成员分析实验数据，共同撰写项目结题报告 1 份。
 
 ### **2 基于过硫酸盐型碘钟反应的自控金属空气电池小车** `机械组长 2018.11 - 2020.11`
 _中国大学生 Chem-E-Car 竞赛项目_<br>
-- 负责4套小车及零部件的平面设计和三维建模，全程跟踪3D打印和机床加工，并顺利进行组装和性能测试；
-- 作品参加 Chem-E-Car 竞赛：2019年获得[中国赛区第1名](http://jyt.shaanxi.gov.cn/jynews/mtsj/201905/27/90745.html)，赴美参赛获[世界第9名](https://mp.weixin.qq.com/s/IymNT19XfMbOyEZV4h1NSA)；2020年获[中国赛区三等奖](https://mp.weixin.qq.com/s/YT2j5jlLTe0vyI3sgFE7TQ)，授权1项[实用新型专利](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN214138763U&uniplatform=NZKPT&v=bDDQfEaHy-wOJVDu9z8ml0T3k79rz7Yo3vp6MArjlHluLUr0ofA8d2APt1j0QX1o)。
+- 2019年获得[中国赛区第1名](http://jyt.shaanxi.gov.cn/jynews/mtsj/201905/27/90745.html)，赴美参赛获[世界第9名](https://mp.weixin.qq.com/s/IymNT19XfMbOyEZV4h1NSA)；2020年获[中国赛区三等奖](https://mp.weixin.qq.com/s/YT2j5jlLTe0vyI3sgFE7TQ)。
 
 ### **1 多功能辅助人工水果采摘器** `设计成员 2017.11 - 2018.05`
 _全国大学生机械创新设计大赛项目_<br>
-- 负责运用 Solidworks 绘制部分设计图纸，制作解说视频、海报、PPt各1份；
-- 参赛作品获得[全国总决赛二等奖](http://umic.ckcest.cn/news/detail/3d17c9cddfe44a92bfa6dfc59e145d12)及[陕西赛区一等奖](https://mp.weixin.qq.com/s/K8aQE8RCJNUMNt407wauYA)，已授权1项[实用新型专利](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD2019&filename=CN208956465U&uniplatform=NZKPT&v=07rb9qUhkQ3jdaW926T5-bo5Aul6WFDoTOXdKxHNJVhXlfIbV5HnvK1gcww6YF5)。
+- 2018年获得[全国总决赛二等奖](http://umic.ckcest.cn/news/detail/3d17c9cddfe44a92bfa6dfc59e145d12)及[陕西赛区一等奖](https://mp.weixin.qq.com/s/K8aQE8RCJNUMNt407wauYA)。
 
 ## **论文发表**
 
@@ -142,19 +134,19 @@ _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<
 
 ## **实践经历**
 
-### **[远景能源有限公司，研发部](https://www.envision-group.com/cn/energy.html)** `风机机械集成工艺工程师 2023.07 - `
+### **[远景能源有限公司](https://www.envision-group.com/cn/energy.html)，研发部** `风机机械集成工艺工程师 2023.07 - `
 
-### **[Micron Semiconductor (Xi' an) Co., Ltd.，Module工程部](https://cn.micron.com/)** `新产品导入工程师 2022.06 - 2022.08`
+### **[Micron Semiconductor (Xi' an) Co., Ltd.](https://cn.micron.com/)，Module Engineering** `NPI engineer 2022.06 - 2022.08`
 
-### **[霖和气候科技（北京）有限公司，碳捕集技术研发部](https://mp.weixin.qq.com/s/XoXXZxPTOIPaaENxTI8IDQ)** `碳捕集工程师 2021.07 - 2022.06`
+### **[霖和气候科技（北京）有限公司](https://mp.weixin.qq.com/s/XoXXZxPTOIPaaENxTI8IDQ)，碳捕集技术研发部** `碳捕集工程师 2021.07 - 2022.06`
 <!-- - 负责运行和管理 5 kg 级 CO₂ 空气捕集装置、桌面级富碳生态系统；
 - 探索出制备 0-99.9% 任意体积浓度 CO₂ 气体的工艺路线，撰写论文 1 篇。
  -->
-### **[杭州海康威视数字技术股份有限公司西安分公司，技术服务部](https://www.hikvision.com/cn/)** `技术支持工程师 2019.07 - 2019.09`
+### **[杭州海康威视数字技术股份有限公司西安分公司](https://www.hikvision.com/cn/)，技术服务部** `技术支持工程师 2019.07 - 2019.09`
 
-### **[广联达科技股份有限公司西安客户服务中心，集中采集部](https://www.glodon.com/)** `采购运营助理 2018.07 - 2018.09`
+### **[广联达科技股份有限公司西安客户服务中心](https://www.glodon.com/)，集中采集部** `采购运营助理 2018.07 - 2018.09`
 
-### **[化工学院团委，科技部](https://chin.nwu.edu.cn/)** `部员/副部/部长 2016.10 - 2019.07`
+### **[化工学院](https://chin.nwu.edu.cn/)团委，科技部** `部员/副部/部长 2016.10 - 2019.07`
 - [化工学院“学术月”](https://mp.weixin.qq.com/s/UgIVy5UeKuFxS3Vi09fEmA)、[学科竞赛经验交流会](https://mp.weixin.qq.com/s/0kJe_p-sTEDtmUFGmFeMxQ)
 
 ### **[长安大学现代工程训练中心](https://gcxlzx.chd.edu.cn/)·金属加工工艺实习** `2017.07 - 2017.08`
@@ -180,14 +172,13 @@ Annual Student Conference Chem-E-Car Competition® 9th Place `ORLANDO, FL 2019.1
 
 ## **公益实践**
 
-### **暑期文化科技卫生“三下乡”社会实践（副队长）** `陕西，韩城 2018.07`
+### **暑期文化科技卫生“三下乡”社会实践，副队长** `陕西，韩城 2018.07`
 - 协助队长进行项目申报和答辩，顺利成为 [14 支校级重点团队之一](https://tuanwei.nwu.edu.cn/info/1007/2573.htm)；
 - 带领队员走访 4 个村镇，2 个产业园，完成座谈 5 场，问卷调查 200 份。
 
-### **暑期文化科技卫生“三下乡”社会实践（通讯员）** `陕西，宝鸡 2017.07`
-- 协助队长进行项目申报和答辩，[团队成功获得校级立项](https://tuanwei.nwu.edu.cn/info/1007/2630.htm)；
-- 作为通讯员，持续记录活动期间所见所闻，发布多篇[图文](https://mp.weixin.qq.com/s/QtL5aYdVBR1ZNio-wnIMEA)、[影音](https://v.qq.com/x/page/l05593edvev.html)稿件。
-
+### **[暑期文化科技卫生“三下乡”社会实践](https://tuanwei.nwu.edu.cn/info/1007/2630.htm)，[通讯员](https://v.qq.com/x/page/l05593edvev.html)** `陕西，宝鸡 2017.07`
+<!-- - 作为通讯员，持续记录活动期间所见所闻，发布多篇[图文](https://mp.weixin.qq.com/s/QtL5aYdVBR1ZNio-wnIMEA)、[影音](https://v.qq.com/x/page/l05593edvev.html)稿件。
+ -->
 ### **碧桂园西安国际马拉松志愿服务** `陕西，西安 2017.10`
 
 ### **西安（阳光城）国际马拉松志愿服务** `陕西，西安 2018.10`
@@ -197,8 +188,6 @@ Annual Student Conference Chem-E-Car Competition® 9th Place `ORLANDO, FL 2019.1
 ### **全国大学生预防艾滋病知识竞赛优秀奖** `2017.11` <br>
 
 ### **“善行100”大学生公益志愿服务** `陕西，西安 2016.12`
-- 与团队成员一同为贫困地区儿童筹集善款，邮寄爱心包裹；
-- 获得一星级善行100志愿者证书、化工学院“最美志愿者”称号。
 
 ## **社会关系**
 
