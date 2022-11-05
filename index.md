@@ -140,27 +140,24 @@ _[实用新型], 授权公布号：CN214091393U，授权公告日：2021.08.31_<
 赵烁，庄子贤，郭思远，杨艳梅，**李锋**，魏利平<br> 
 _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<br>
 
-## **工作经历**
+## **实践经历**
 
-### **[霖和气候科技（北京）有限公司](https://mp.weixin.qq.com/s/XoXXZxPTOIPaaENxTI8IDQ)** `碳捕集工程师 2021.07 - 2022.06`
-- 负责运行和管理 5 kg 级 CO₂ 空气捕集装置、桌面级富碳生态系统；
+### **[远景能源（无锡）](https://mp.weixin.qq.com/s/XoXXZxPTOIPaaENxTI8IDQ)** `风机机械集成工艺工程师 2023.07 - `
+
+### **[Micron（西安）](https://mp.weixin.qq.com/s/XoXXZxPTOIPaaENxTI8IDQ)** `新产品导入工程师 2022.06 - 2022.08`
+
+### **[霖和气候（西安）](https://mp.weixin.qq.com/s/XoXXZxPTOIPaaENxTI8IDQ)** `碳捕集工程师 2021.07 - 2022.06`
+<!-- - 负责运行和管理 5 kg 级 CO₂ 空气捕集装置、桌面级富碳生态系统；
 - 探索出制备 0-99.9% 任意体积浓度 CO₂ 气体的工艺路线，撰写论文 1 篇。
+ -->
+### **[海康威视（西安）](https://www.hikvision.com/cn/)** `技术支持工程师 2019.07 - 2019.09`
 
-### **[杭州海康威视数字技术股份有限公司](https://www.hikvision.com/cn/)** `技术支持工程师 2019.07 - 2019.09`
-- 服务于西安智慧楼宇安防业务，历经“雪亮工程”等大小 21 个项目； 
-- 掌握监控、停车、通道、对讲、考勤等 5 大安防子系统的安装调试规程。
-
-### **[广联达科技股份有限公司](https://www.glodon.com/)** `采购运营助理 2018.07 - 2018.09`
-- 负责暖通设备供应商搜集、供采双方撮合及网站后台数据录入；
-- 协助集采经理日常工作，日均审核供应商及采购商信息 20 余家。
+### **[广联达（西安）](https://www.glodon.com/)** `采购运营助理 2018.07 - 2018.09`
 
 ### **[化工学院团委科技部](https://www.glodon.com/)** `部员/副部/部长 2016.10 - 2019.07`
-- 策划和组织[化工学院“学术月”](https://mp.weixin.qq.com/s/UgIVy5UeKuFxS3Vi09fEmA)活动 2 次，累计参与学生达 600 人；
-- 开展 200 人以上[学科竞赛经验交流会](https://mp.weixin.qq.com/s/0kJe_p-sTEDtmUFGmFeMxQ) 8 场，公开举办软件技能培训 5 次。
+- [化工学院“学术月”](https://mp.weixin.qq.com/s/UgIVy5UeKuFxS3Vi09fEmA)、[学科竞赛经验交流会](https://mp.weixin.qq.com/s/0kJe_p-sTEDtmUFGmFeMxQ)
 
 ### **[长安大学现代工程训练中心](https://gcxlzx.chd.edu.cn/)·金属加工工艺实习** `2017.07 - 2017.08`
-- 车工，铣工，钳工，焊接，砂型铸造，热处理，线切割，数控车，数控铣等；
-- AutoCAD，Solidworks，ANSYS等软件实训。
 
 ### **各地·专业认知实习** `2016.12 - 2019.08`
 - [中国石化南化公司](http://ncic.sinopec.com/ncic/)化工机械厂，[中国石油长庆石化公司](https://www.cnpc.com.cn/cnpc/lhqy/201404/d41fe0c79d39466daf09c1fee10f7708.shtml)，[陕西省计量科学研究院](http://www.sims.ac.cn/)，[陕西省产品质量监督检验研究院](http://www.snzhijian.org.cn/)；
