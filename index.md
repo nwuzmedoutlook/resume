@@ -172,9 +172,7 @@ Annual Student Conference Chem-E-Car Competition® 9th Place `ORLANDO, FL 2019.1
 
 ## **公益实践**
 
-### **暑期文化科技卫生“三下乡”社会实践，副队长** `陕西，韩城 2018.07`
-- 协助队长进行项目申报和答辩，顺利成为 [14 支校级重点团队之一](https://tuanwei.nwu.edu.cn/info/1007/2573.htm)；
-- 带领队员走访 4 个村镇，2 个产业园，完成座谈 5 场，问卷调查 200 份。
+### **[暑期文化科技卫生“三下乡”社会实践](https://tuanwei.nwu.edu.cn/info/1007/2573.htm)，副队长** `陕西，韩城 2018.07`
 
 ### **[暑期文化科技卫生“三下乡”社会实践](https://tuanwei.nwu.edu.cn/info/1007/2630.htm)，[通讯员](https://v.qq.com/x/page/l05593edvev.html)** `陕西，宝鸡 2017.07`
 <!-- - 作为通讯员，持续记录活动期间所见所闻，发布多篇[图文](https://mp.weixin.qq.com/s/QtL5aYdVBR1ZNio-wnIMEA)、[影音](https://v.qq.com/x/page/l05593edvev.html)稿件。
