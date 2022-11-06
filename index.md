@@ -30,7 +30,7 @@ Supported arguments:
 
 ## **教育经历**
 
-### **西北大学&emsp;&emsp;化工学院** `2020.09 - 2023.06`
+### **西北大学&emsp;化工学院** `2020.09 - 2023.06`
 
 ```
 陕西, 西安
@@ -39,7 +39,7 @@ Supported arguments:
 - 硕士研究生&emsp;&emsp;化工过程机械
 - 直接空气捕集 CO₂ 设备的开发及应用研究（由[朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu)和[陈曦](https://www.engineering.columbia.edu/faculty/xi-chen)合作指导）
 
-### **西北大学&emsp;&emsp;化工学院** `2016.09 - 2020.06`
+### **西北大学&emsp;化工学院** `2016.09 - 2020.06`
 
 ```
 陕西, 西安
