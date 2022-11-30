@@ -132,7 +132,7 @@ _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<
 
 ## **实践经历**
 
-### **[远景能源有限公司](https://www.envision-group.com/cn/energy.html)，研发部** `风机机械集成工艺工程师 2023.07 - `
+### **[xxxx有限公司](https://www.envision-group.com/cn/energy.html)，研发部** `结构工程师 2023.07 - `
 
 ### **[Micron Semiconductor (Xi' an) Co., Ltd.](https://cn.micron.com/)，Module Engineering** `NPI engineer 2022.06 - 2022.08`
 
@@ -155,6 +155,7 @@ _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<
 
 ## **荣誉奖项**
 
+西北大学硕士研究生一等学业奖学金 `2022.12` <br>
 西北大学硕士研究生一等学业奖学金 `2021.12` <br>
 西北大学硕士研究生一等学业奖学金 `2020.12` <br>
 第四届中国大学生 Chem-E-Car 竞赛三等奖 `陕西，西安 2020.11` <br>
