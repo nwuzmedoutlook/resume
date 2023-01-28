@@ -5,7 +5,7 @@ email:
   url: mailto:nwuzmed@outlook.com
   text: nwuzmed@outlook.com
 homepage:
-  url: https://co2co2.cf
+  url: https://ccus.cf/
   text: NWUzmed's world
 phone:
   189****8216
@@ -132,17 +132,17 @@ _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<
 
 ## **实践经历**
 
-### **[xxxx有限公司](https://www.envision-group.com/cn/energy.html)，研发部** `结构工程师 2023.07 - `
+### **[xxxx有限公司](https://www.envision-group.com/cn/energy.html)，研发管理部** `结构工程师 2023.07 - `
 
-### **[Micron Semiconductor (Xi' an) Co., Ltd.](https://cn.micron.com/)，Module Engineering** `NPI engineer 2022.06 - 2022.08`
+### **[Micron Semiconductor (Xi' an) Co., Ltd.](https://cn.micron.com/)，Module Engineering** `NPI engineer（Intern） 2022.06 - 2022.08`
 
-### **[霖和气候科技（北京）有限公司](https://mp.weixin.qq.com/s/XoXXZxPTOIPaaENxTI8IDQ)，碳捕集技术研发部** `碳捕集工程师 2021.07 - 2022.06`
+### **[霖和气候科技（北京）有限公司](https://mp.weixin.qq.com/s/XoXXZxPTOIPaaENxTI8IDQ)，碳捕集技术研发部** `碳捕集工程师（兼职） 2021.07 - 2022.06`
 <!-- - 负责运行和管理 5 kg 级 CO₂ 空气捕集装置、桌面级富碳生态系统；
 - 探索出制备 0-99.9% 任意体积浓度 CO₂ 气体的工艺路线，撰写论文 1 篇。
  -->
-### **[杭州海康威视数字技术股份有限公司西安分公司](https://www.hikvision.com/cn/)，技术服务部** `技术支持工程师 2019.07 - 2019.09`
+### **[杭州海康威视数字技术股份有限公司西安分公司](https://www.hikvision.com/cn/)，技术服务部** `技术支持工程师（实习） 2019.07 - 2019.09`
 
-### **[广联达科技股份有限公司西安客户服务中心](https://www.glodon.com/)，集中采集部** `采购运营助理 2018.07 - 2018.09`
+### **[广联达科技股份有限公司西安客户服务中心](https://www.glodon.com/)，集中采集部** `采购运营助理（实习） 2018.07 - 2018.09`
 
 ### **[化工学院](https://chin.nwu.edu.cn/)团委，科技部** `部员/副部/部长 2016.10 - 2019.07`
 - [化工学院“学术月”](https://mp.weixin.qq.com/s/UgIVy5UeKuFxS3Vi09fEmA)、[学科竞赛经验交流会](https://mp.weixin.qq.com/s/0kJe_p-sTEDtmUFGmFeMxQ)
@@ -155,6 +155,7 @@ _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<
 
 ## **荣誉奖项**
 
+全国CCUS创新创意赛三等奖 `2023.01` <br>
 西北大学硕士研究生一等学业奖学金 `2022.12` <br>
 西北大学硕士研究生一等学业奖学金 `2021.12` <br>
 西北大学硕士研究生一等学业奖学金 `2020.12` <br>
