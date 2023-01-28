@@ -132,7 +132,7 @@ _[实用新型], 授权公布号：CN208956465U，授权公告日：2019.06.11_<
 
 ## **实践经历**
 
-### **[xxxx有限公司](https://www.envision-group.com/cn/energy.html)，研发管理部** `结构工程师 2023.07 - `
+### **[xxxx有限公司](https://www.hihonor.com/cn/)，研发管理部** `结构工程师 2023.07 - `
 
 ### **[Micron Semiconductor (Xi' an) Co., Ltd.](https://cn.micron.com/)，Module Engineering** `NPI engineer（Intern） 2022.06 - 2022.08`
 
