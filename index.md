@@ -71,21 +71,29 @@ _全国大学生机械创新设计大赛项目_<br>
 
 ## **论文发表**
 
+### **6** [**农业大棚空气捕集CO₂气肥增施装置的设计与研究**](https://www.nkdb.net/CN/1008-0864/home.shtml)
+**李锋**, 王凯, 成欣悦, 高尚, 朱亮亮*, 陈曦<br> 
+_中国农业科技导报,2023,XX(XX):XXX-XXX_ <br>
+
+### **5** [**负载PO₄³⁻的离子交换树脂膜在烟气中变湿吸附CO₂的性能研究**](https://www.dthxyhg.com/thesisDetails#10.12434/j.issn.2097-2547.20230055&lang=zh)
+王凯, **李锋**, 郑世强, 成欣悦, 朱亮亮*, 陈曦<br> 
+_低碳化学与化工,2023,48(03):140-147_ <br>
+
 ### **4** [**CO₂ removal in humid environment by ion-exchange membranes**](https://onlinelibrary.wiley.com/doi/10.1002/apj.2816)
-**Feng Li**, Yifan Zhang, Shiqiang Zheng, Kai Wang, Jia Ni, Liangliang Zhu, Xi Chen<br> 
+**Feng Li**, Yifan Zhang, Shiqiang Zheng, Kai Wang, Jia Ni*, Liangliang Zhu*, Xi Chen<br> 
 _Asia-Pacific Journal of Chemical Engineering (2022, e2816)_ <br>
 
 ### **3** [**Ni-Fe bimetallic hexaaluminate for efficient reduction of O₂-containing CO₂ via chemical loopinge**](https://www.sciencedirect.com/science/article/abs/pii/S1385894722015698)
-Xueyan Sun, Liangliang Zhu, Wei Zhao, **Feng Li**, Xi Chen<br> 
+Xueyan Sun, Liangliang Zhu*, Wei Zhao*, **Feng Li**, Xi Chen*<br> 
 _Chemical Engineering Journal (Volume 441, 1 August 2022, 136071)_ <br>
 
 ### **2** [**On the snake-like lateral un-dulatory locomotion in terrestrial, aquatic and sand environments**](https://www.sciencedirect.com/science/article/abs/pii/S0022509621002696)
-Liangliang Zhu, Pengfei Yang, **Feng Li**, Kai Wang, Langquan Shui, Xi Chen<br>
+Liangliang Zhu, Pengfei Yang, **Feng Li**, Kai Wang, Langquan Shui*, Xi Chen*<br>
 <!-- <i class="fas fa-award"></i> <strong>Best Paper Honourable Mention</strong><br> -->
 _Journal of the Mechanics and Physics of Solids (Volume 157, December 2021, 104629)_<br>
 
 ### **1** [**Photocatalytic reduction of CO₂ by halide perovskites: recent advances and future perspectives**](https://pubs.rsc.org/en/content/articlehtml/2021/ma/d1ma00703c)
-Muhammad Ali Raza, **Feng Li**, Meidan Que, Liangliang Zhu and Xi Chen<br> 
+Muhammad Ali Raza, **Feng Li**, Meidan Que*, Liangliang Zhu* and Xi Chen*<br> 
 _Materials Advances (2021, 2, 7187–7209)_<br>
 
 ## **专利申请**
