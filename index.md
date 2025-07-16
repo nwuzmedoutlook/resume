@@ -5,12 +5,12 @@ email:
   url: mailto:nwuzmed@outlook.com
   text: nwuzmed@outlook.com
 homepage:
-  url: https://ccus.cf/
+  url: https://zmed.eu.org/
   text: NWUzmed's world
 phone:
   189****8216
 more:
-  url: https://goooogle.cf/
+  url: https://dacdh.top/
   text: 更多信息
 
 ---
@@ -37,7 +37,7 @@ Supported arguments:
 ```
 
 - 硕士研究生&emsp;&emsp;化工过程机械
-- 直接空气捕集 CO₂ 设备的开发及应用研究（由[朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu)和[陈曦](https://www.engineering.columbia.edu/faculty/xi-chen)合作指导）
+- 直接空气捕集 CO₂ 设备的开发及应用研究（由[朱亮亮](https://faculty.nwu.edu.cn/LiangliangZhu)和[陈曦](https://co2loop.com/cxzl)合作指导）
 
 ### **西北大学&emsp;化工学院** `2016.09 - 2020.06`
 
